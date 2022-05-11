@@ -29,6 +29,10 @@
 
 /* margins */
 
+.margins {
+  padding-bottom: 50px;
+}
+
 .margins-intro {
   padding-top: 60px;
 }
