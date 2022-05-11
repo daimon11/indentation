@@ -125,17 +125,17 @@
   margin-bottom: 30px;
 }
 
-.item__final {
+.final__item {
   color: black;
   margin-bottom: 9px;
 }
 
-.item__final::before {
+.final__item::before {
   content: "\2014";
   margin-right: 6px;
 }
 
-.item__final:last-child {
+.final__item:last-child {
   margin-bottom: 0;
 }
 
